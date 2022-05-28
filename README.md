@@ -12,3 +12,6 @@
   - ReactJS
   - CSS
   - Trello(Ferramenta Organizacional)
+
+## Link para a pagina do deploy
+  - https://front-end-online-store-sigma.vercel.app/

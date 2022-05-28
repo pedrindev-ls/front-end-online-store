@@ -7,3 +7,8 @@
   - **[Jovane de Castro](https://github.com/Cadavanaugh)**
   - **[Danillo Gonçalves](https://github.com/danillogoncalves)**
   - **[Pedro Vieira](https://github.com/pedrindev-ls)**
+
+## Tecnologias Utilizadas
+  - ReactJS
+  - CSS
+  - Trello(Ferramenta Organizacional)
